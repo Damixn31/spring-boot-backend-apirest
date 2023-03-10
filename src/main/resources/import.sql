@@ -1,0 +1,12 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andres', 'Guzman', 'profesor@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Mr. John', 'Doe', 'Doe3@bolsadeideas.com', '2019-03-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Linus', 'Torvlds', 'TT@bolsadeideas.com', '2016-05-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Luis', 'Garcia', 'luis312@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Matheo', 'Lopez', 'mateoLL@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Luz', 'James', 'lulu123@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Angel', 'Melgar', 'mangel@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Maria', 'Bazquez', 'maria555@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Nicolas', 'Olmedo', 'nicoOl@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Bruno', 'Olmedo', 'burbru@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Sandra', 'Escobar', 'sandru@bolsadeideas.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Marco', 'Balcaza', 'maoco1766@bolsadeideas.com', '2018-01-01');
